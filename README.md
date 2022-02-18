@@ -6,7 +6,7 @@
 
 # HackerRank - Solutions to Challenges
 
-This repository consists of my solutions to challenges posted on HackerRank. I am currently undertaking challenges in two topics:
+This repository consists of my solutions to challenges posted on HackerRank. I am currently working through challenges on two topics:
 - [SQL](https://github.com/KOrfanakis/HackerRank-Solutions/tree/main/SQL)
 - [Regex](https://github.com/KOrfanakis/HackerRank-Solutions/tree/main/Regex)
 
