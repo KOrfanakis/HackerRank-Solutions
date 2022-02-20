@@ -45,3 +45,4 @@
 | Basic Join 	| [The Report](https://www.hackerrank.com/challenges/the-report/problem) 	|    Medium    	|   20   	| [Solution](https://github.com/KOrfanakis/HackerRank-Solutions/blob/main/SQL/03-Basic_Join/41-The_Report.sql) 	|
 | Basic Join 	| [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) 	|    Medium    	|   30   	| [Solution](https://github.com/KOrfanakis/HackerRank-Solutions/blob/main/SQL/03-Basic_Join/42-Top_Competitors.sql) 	|
 | Basic Join 	| [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?) 	|    Medium    	|   30   	| [Solution](https://github.com/KOrfanakis/HackerRank-Solutions/blob/main/SQL/03-Basic_Join/43-Ollivander's_Inventory.sql) 	|
+| Basic Join 	| [Challenges](https://www.hackerrank.com/challenges/challenges/problem?) 	|    Medium    	|   30   	| [Solution](https://github.com/KOrfanakis/HackerRank-Solutions/blob/main/SQL/03-Basic_Join/44-Challenges.sql) 	|
